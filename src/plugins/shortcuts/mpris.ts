@@ -79,7 +79,7 @@ function setupMPRIS() {
   instance.canQuit = false;
   instance.canUsePlayerControls = true;
   instance.supportedUriSchemes = ['http', 'https'];
-  instance.desktopEntry = 'youtube-music';
+  instance.desktopEntry = 'com.github.th_ch.youtube_music';
   return instance;
 }
 
